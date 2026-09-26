@@ -42,5 +42,9 @@ The complete infrastructure roadmap, technical engineering roles, data flow step
 
 ---
 
+## 💻 Functional Prototype Code
+I built a functional JavaScript simulation using the Node.js runtime engine to demonstrate this high-concurrency architecture logic.
+
 ---
+👉 **[Click Here to View the server.js Prototype Script](./server.js)**
 *Developed during the NxtWave Case Study Workshop.*

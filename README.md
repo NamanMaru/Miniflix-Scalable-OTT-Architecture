@@ -35,11 +35,12 @@ When a centralized video streaming platform experiences sudden surges in traffic
 
 ---
 
-## 🛠️ Visualizing the Architecture
-Below are the conceptual breakdowns generated during the architecture workshop:
+## 📑 View System Design Document
+The complete infrastructure roadmap, technical engineering roles, data flow steps, and presentation pitches are available in the project document.
 
-![Architecture Details Part 1](architecture_part1.png)
-![Architecture Details Part 2](architecture_part2.png)
+👉 **[Click Here to View the Full MiniFlix Architecture PDF](./MiniFlix_Scalable_OTT_Project_Report.pdf)**  
+
+---
 
 ---
 *Developed during the NxtWave Case Study Workshop.*
